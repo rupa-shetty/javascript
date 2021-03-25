@@ -3,10 +3,10 @@ var emp_Name='Raju';
 var is_Avail=true;
 var emp_Sal;
 
-var size_Shirt=['30','40','42'];
+var size_Shirt=['30','40','42']
 var employee={
-    name='ramesh', age='25',loc='goa'
-};
+    e_name="raj" , age="25", loc="goa"
+}
 
 console .log(typeof emp_No);
 console .log(typeof emp_Name);
