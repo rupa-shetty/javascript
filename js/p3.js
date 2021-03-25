@@ -1,5 +1,5 @@
-const number = parseInt(prompt("Enter a number: "));
-
+//const number = parseInt(prompt("Enter a number: "));
+var number=-20;
 if (number > 0) {
     console.log("The number is positive");
 }
