@@ -1,6 +1,6 @@
 let sum = 0;
 //const number = prompt('Enter a three-digit positive integer: ');
-var number=1534;
+var number=153;
 
 let temp = number;
 while (temp > 0) {
