@@ -1,5 +1,5 @@
 //const number = parseInt(prompt('Enter the number of terms: '));
-var number=5;
+var number=10;
 var n1 = 0, n2 = 1, nextTerm;
 
 console.log('Fibonacci Series:');
