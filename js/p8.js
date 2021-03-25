@@ -4,7 +4,7 @@ var num1=10;
 var num2=20;
 var least;
 
-if( num1>=num2)
+if( num1<=num2)
 {
     least =num1;
 }
@@ -13,4 +13,4 @@ else
     least= num2;
 }
 
-console.log("The least number is: "+leas);
+console.log("The least number is: "+least);
