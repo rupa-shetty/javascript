@@ -1,6 +1,6 @@
 var x=1;
 while(x<=10)
 {
-    console.log(x*4);
+    console.log(4*x);
     x++;
 }
