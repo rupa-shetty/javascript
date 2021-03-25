@@ -1,8 +1,8 @@
 //const num1 = parseFloat(prompt ("Enter 1st number: "));
 //const num2 = parseFloat(prompt ("Enter 1st number: "));
-var num1=10;
+var num1=0;
 var num2=20;
-var num3=5;
+var num3=05;
 var least;
 
 if( num1<=num2 && num1<=num3)
