@@ -1,16 +1,13 @@
-function pos(x,y)
-{
-    if ((x<0 && y>0) || (x>0 && y<0))
-    {
-        return true;
-    }
-    else
-    {
-        return false;
-    }
+const number = parseInt(prompt("Enter a number: "));
+
+if (number > 0) {
+    console.log("The number is positive");
 }
 
-console.log(pos(1,2));
-console.log(pos(0,3));
-console.log(pos(-8,2));
-console.log(pos(-2,-2));
+else if (number == 0) {
+  console.log("The number is zero");
+}
+
+else {
+     console.log("The number is negative");
+}
