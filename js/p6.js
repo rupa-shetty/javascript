@@ -1,16 +1,13 @@
-function even1(x)
+function even_odd()
 {
+    var x;
+    x=Number(document.getElementById("x_input").nodeValue);
     if (x%2==0)
     {
-        return evennumber;
+        alert ("evennumber");
     }
     else
     {
-        return oddnumber;
+        alert ("oddnumber");
     }
 }
-
-console.log(even1(15));
-console.log(even1(20));
-console.log(even1(18));
-console.log(even1(40));
